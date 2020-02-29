@@ -1,0 +1,1 @@
+const int numberOfLogo = 10;
