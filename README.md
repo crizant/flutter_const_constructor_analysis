@@ -1,6 +1,6 @@
 # const_constructor_analysis
 
-The flutter project is created to study the performance gain when using the `const` constructors.
+The flutter project is created to study the performance gain when using the `const` constructors. [Check out the related article here.](https://medium.com/@crizantlai/flutter-performance-analysis-of-const-constructor-d2a72fd8a043)
 
 ## Getting Started
 
